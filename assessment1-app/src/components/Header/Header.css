@@ -1,0 +1,27 @@
+/* Header.css */
+.header-container {
+    background-color: #2c7a7b;
+    /* teal.500 */
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+.header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    /*Align to the left side */
+    text-align: right;
+    margin-left: auto;
+}
+
+.menu-option {
+    color: black;
+    border-radius: 4px;
+    :hover {
+        background-color: #2b6cb0;
+    }
+}
+
+p {
+    padding-top: 10px;
+}

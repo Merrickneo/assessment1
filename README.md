@@ -25,3 +25,4 @@ Single page application using React which encompasses 2 main elements:
     <code><img height="50" src="assessment1-app/src/assets/techStack/python-icon.svg" alt="Python" title="Python" /></code>
 </div>
 
+[Assessment 1 Link](https://github.com/Merrickneo/assessment1)
